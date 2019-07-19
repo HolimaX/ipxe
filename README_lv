@@ -1,0 +1,8 @@
+iPXE README fails
+
+Ātrās uzsakšanas ceļvedis:
+
+   cd src
+   make
+
+Papildus sīkākai informācijai, skatīt http://ipxe.org
